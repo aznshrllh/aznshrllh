@@ -1,14 +1,14 @@
 <h1 align="center">Hi There! I'm Ahmad Zaki Nashirullah 👋</h1>
 <h3 align="center">"Engineer-Turned-Developer | Building Digital Solutions with Passion."</h3>
 
-## 💫 About Me
+## 💫 A Glimpse into My Journey
 
-- 🔭 I’m currently working on **Habit Tracker**<br><br>
+- 🔭 I’m currently working on **Habit Tracker** _personal project_ <br><br>
 - 🌱 I’m currently deepening **NextJS, TypeScript, and Tailwind**<br><br>
 - 💬 Ask me about **Anything!**<br><br>
 - ⚡ Fun fact **A programmer, sometimes a Barista**
 
-## 🌐 My Socials
+## 🌐 Let's Connect and Build Something Amazing Together!
 
 <p align="left">
 <a href="https://linkedin.com/in/ahmad-zaki-nashirullah" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
@@ -17,7 +17,7 @@
 <a href="mailto:ahmadzakinashirullah@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 </p>
 
-## 💻 My Tech Stack
+## 💻 My Tech Journey & Tools
 
 ### Programming Languages & Core Technologies
 
@@ -87,11 +87,11 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/aznshrllh/aznshrllh/output/github-snake.svg" />
 </picture>
 
-## 👨‍💻 Me in Person
+## 👨‍💻 Me in Gif
 
 <table align="center" style="border-collapse: collapse;" cellspacing="0" cellpadding="10">
   <tr>
-    <td style="border: none;"><img width="140" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3MyZDNmZ3d0dXJmMXJyeThjZDZ4cnVidGd0dGtjcHJnZXNydmJjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vtty3pr6C0sWKUdlQn/giphy.gif"/></td>
+    <td style="border: none;"><img width="140" align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3MyZDNmZ3d0dXJmMXJyeThjZDZ4cnVidGd0dGtjcHJnZXNydmJjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vtty3pr6C0sWKUdlQn/giphy.gif"/></td>
     <td style="border: none;"><img width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTh2MGsxcW5xM2dlbDZqbHk4cmlpaWZ6YWx3NDc2b3B3cHI3ZWM0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/jVqYgn09W8FHEf0BBS/giphy.gif"/></td>
     <td style="border: none;"><img width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k5djFsY3dpOW1ndTZrZjBwcmZqZ3EyZGF4dGtpdnpycjVwb2ZuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wqdXMKJXnR3dfnDqMK/giphy.gif"/></td>
   </tr>
