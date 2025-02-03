@@ -1,14 +1,14 @@
 <h1 align="center">Hi There! I'm Ahmad Zaki Nashirullah 👋</h1>
 <h3 align="center">"Engineer-Turned-Developer | Building Digital Solutions with Passion."</h3>
 
-## 💫 About Me:
+## 💫 About Me
 
 - 🔭 I’m currently working on **Habit Tracker**<br><br>
 - 🌱 I’m currently deepening **NextJS, TypeScript, and Tailwind**<br><br>
 - 💬 Ask me about **Anything!**<br><br>
 - ⚡ Fun fact **A programmer, sometimes a Barista**
 
-## 🌐 Socials:
+## 🌐 My Socials
 
 <p align="left">
 <a href="https://linkedin.com/in/ahmad-zaki-nashirullah" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
@@ -17,7 +17,7 @@
 <a href="mailto:ahmadzakinashirullah@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 </p>
 
-## 💻 Tech Stack:
+## 💻 My Tech Stack
 
 ### Programming Languages & Core Technologies
 
@@ -87,7 +87,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/aznshrllh/aznshrllh/output/github-snake.svg" />
 </picture>
 
-## 👨‍💻 Me as A Person
+## 👨‍💻 Me in Person
 
 <table align="center" style="border-collapse: collapse;" cellspacing="0" cellpadding="10">
   <tr>
