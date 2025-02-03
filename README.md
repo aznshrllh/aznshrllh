@@ -89,15 +89,15 @@
 
 ## 👨‍💻 Me as A Person
 
-<table>
+<table align="center" style="border-collapse: collapse;" cellspacing="0" cellpadding="10">
   <tr>
-    <td><img width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k5djFsY3dpOW1ndTZrZjBwcmZqZ3EyZGF4dGtpdnpycjVwb2ZuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wqdXMKJXnR3dfnDqMK/giphy.gif"/></td>
-    <td><img width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTh2MGsxcW5xM2dlbDZqbHk4cmlpaWZ6YWx3NDc2b3B3cHI3ZWM0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/jVqYgn09W8FHEf0BBS/giphy.gif"/></td>
-    <td><img width="90" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3MyZDNmZ3d0dXJmMXJyeThjZDZ4cnVidGd0dGtjcHJnZXNydmJjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vtty3pr6C0sWKUdlQn/giphy.gif"/></td>
+    <td style="border: none;"><img width="140" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3MyZDNmZ3d0dXJmMXJyeThjZDZ4cnVidGd0dGtjcHJnZXNydmJjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vtty3pr6C0sWKUdlQn/giphy.gif"/></td>
+    <td style="border: none;"><img width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTh2MGsxcW5xM2dlbDZqbHk4cmlpaWZ6YWx3NDc2b3B3cHI3ZWM0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/jVqYgn09W8FHEf0BBS/giphy.gif"/></td>
+    <td style="border: none;"><img width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k5djFsY3dpOW1ndTZrZjBwcmZqZ3EyZGF4dGtpdnpycjVwb2ZuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wqdXMKJXnR3dfnDqMK/giphy.gif"/></td>
   </tr>
   <tr>
-    <td><img width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHF1dnB0cmRqd25ocGIwMjU5czFtZTh1cWh3Mmlxb2U4cW5uczlvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yIbnrwdao4kUOMwUqM/giphy.gif"/></td>
-    <td><img width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NlNWcyNDBpbTBmYnpsNjRkaGpuN3doczV4N3lwenpwcGMyenQ3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zansp4fFiG4HcBiJeB/giphy.gif"/></td>
-    <td><img width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXg5eXBjaWlqeWUxd2FoNmJoZjRlMjFvMnI4Y2hscngzcXNkbjhndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z0hUv6bpBWUUOtShDf/giphy.gif" /></td>
+    <td style="border: none;"><img width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHF1dnB0cmRqd25ocGIwMjU5czFtZTh1cWh3Mmlxb2U4cW5uczlvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yIbnrwdao4kUOMwUqM/giphy.gif"/></td>
+    <td style="border: none;"><img width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NlNWcyNDBpbTBmYnpsNjRkaGpuN3doczV4N3lwenpwcGMyenQ3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zansp4fFiG4HcBiJeB/giphy.gif"/></td>
+    <td style="border: none;"><img width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXg5eXBjaWlqeWUxd2FoNmJoZjRlMjFvMnI4Y2hscngzcXNkbjhndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z0hUv6bpBWUUOtShDf/giphy.gif"/></td>
   </tr>
 </table>
