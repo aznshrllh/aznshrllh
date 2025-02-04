@@ -1,7 +1,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Ahmad+Zaki+Nashirullah!;Welcome+to+my+GitHub!;" />
 </h1>
-<h3 align="center">"Engineer-Turned-Developer | Building Digital Solutions with Passion."</h3>
+<h3 align="center">
+  👨‍🔧 From Oil & Gas Engineer to Web Developer 👨‍💻<br>
+  <span style="font-size: 0.9em">Transforming Industry Experience into Digital Innovation</span>
+</h3>
 
 ## 💫 A Glimpse into My Journey
 
@@ -89,7 +92,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/aznshrllh/aznshrllh/output/github-snake.svg" />
 </picture>
 
-## 👨‍💻 Me in Gif
+## 👨‍💻 Me in Gifs
 
 <table align="center" style="border-collapse: collapse;" cellspacing="0" cellpadding="10">
   <tr>
