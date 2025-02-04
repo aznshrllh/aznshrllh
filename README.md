@@ -73,9 +73,9 @@
 
 ### Design Tools
 
-![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Filmora](https://img.shields.io/badge/Wondershare%20Filmora-0099FF?style=for-the-badge&logo=wondershare&logoColor=white)
+[![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)](https://www.sketchup.com/en)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
+[![Filmora](https://img.shields.io/badge/Wondershare%20Filmora-0099FF?style=for-the-badge&logo=wondershare&logoColor=white)](https://filmora.wondershare.net/?gad_source=1&gclid=Cj0KCQiAkoe9BhDYARIsAH85cDM4Sg7s-psD2cQOsLibSeWDJemOyokDK27qjX6y74c8mitQ5TbUSyAaAuH_EALw_wcB)
 
 ### Others
 
