@@ -20,6 +20,7 @@
 <a href="https://fb.com/m0v1c" target="blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
 <a href="https://instagram.com/aznshrllh" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 <a href="mailto:ahmadzakinashirullah@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+<a href="https://www.strava.com/athletes/aznshrllh" target="blank"><img src="https://img.shields.io/static/v1?message=Strava&logo=strava&label=&color=FC4C02&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="strava logo"  /></a>
 </p>
 
 ## 💻 My Tech Journey & Tools
