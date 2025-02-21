@@ -1,4 +1,8 @@
-[![wakatime](https://wakatime.com/badge/user/ef0fbc5d-728b-4e54-b158-92d02c3fdb0a.svg)](https://wakatime.com/@ef0fbc5d-728b-4e54-b158-92d02c3fdb0a)
+<div align="right">
+  <a href="https://wakatime.com/@aznshrllh">
+    <img src="https://wakatime.com/badge/user/ef0fbc5d-728b-4e54-b158-92d02c3fdb0a.svg" alt="wakatime">
+  </a>
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Ahmad+Zaki+Nashirullah!;Welcome+to+my+GitHub!;" />
