@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/ef0fbc5d-728b-4e54-b158-92d02c3fdb0a.svg)](https://wakatime.com/@ef0fbc5d-728b-4e54-b158-92d02c3fdb0a)
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Ahmad+Zaki+Nashirullah!;Welcome+to+my+GitHub!;" />
 </h1>
@@ -84,6 +86,10 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/)
 [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://www.nvidia.com/en-sg/)
+
+<!-- ## ⌨️ My Coding Activity
+
+<figure><embed src="https://wakatime.com/share/@ef0fbc5d-728b-4e54-b158-92d02c3fdb0a/3fbfe6cb-a442-4403-8f3d-74f4144d20ce.svg" /></figure> -->
 
 ## 🐍 My Commit Snake
 
